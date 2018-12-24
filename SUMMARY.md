@@ -1,4 +1,4 @@
-# Summary
+# 数据分析
 
 * [数据分析](README.md)
 * [Matplotlib](matplotlib/readme.md)
@@ -7,5 +7,5 @@
     * [条形图](matplotlib/c.md)
     * [直方图](matplotlib/d.md)
 * [Numpy](numpy/readme.md)
-    * [矩阵](numpy/a.md)
+    * [基本操作](numpy/a.md)
 
