@@ -1,4 +1,4 @@
-# 数据分析
+# Summary
 
 * [数据分析](README.md)
 * [Matplotlib](matplotlib/readme.md)
@@ -8,4 +8,6 @@
     * [直方图](matplotlib/d.md)
 * [Numpy](numpy/readme.md)
     * [基本操作](numpy/a.md)
+* [pandas](pandas/a.md)
+    * [认识pandas](pandas/a.md)
 
